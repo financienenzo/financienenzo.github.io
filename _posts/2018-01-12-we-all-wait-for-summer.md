@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hoe zit het nou eigenlijk met je spaargeld (en de rente, belasting en inflatie)?"
-categories: [ Jekyll, tutorial ]
+categories: [ Spaargeld, Rente, Belasting, Inflatie ]
 image: assets/images/1.jpg
 featured: true
 ---
