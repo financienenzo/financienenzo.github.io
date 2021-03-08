@@ -42,7 +42,11 @@ jekyll-archives:
   layout: archive
   permalinks:
     category: '/category/:name/'
+    post: '/:title/'
     
 # Other
 markdown: kramdown
 highlighter: rouge
+search: true
+timezone: Europe/Amsterdam
+lang: nl-nl
