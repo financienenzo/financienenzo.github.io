@@ -3,7 +3,6 @@ layout: post
 title:  "Wat is Mintos?"
 tags: [ Spaargeld, Rente, Affiliate ]
 image: assets/images/1.jpg
-featured: true
 date: 2019-12-25
 ---
 
