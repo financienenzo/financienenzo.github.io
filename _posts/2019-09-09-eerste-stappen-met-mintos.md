@@ -4,7 +4,7 @@ title:  "Eerste stappen met Mintos"
 categories: [ Spaargeld, Rente, Affiliate ]
 image: assets/images/1.jpg
 featured: true
-date: 2019-09-09 20:55:00 +0100
+date: 2019-09-09
 ---
 
 Na diverse artikelen te hebben gelezen over Mintos ben ik uiteindelijk overstag gegaan. Mintos is ook onze eerste oplossing welke wij hebben gebruikt met betrekking tot investeren.
