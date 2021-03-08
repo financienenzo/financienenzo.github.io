@@ -7,7 +7,9 @@ featured: true
 date: 2021-01-17
 ---
 
-Je hoort het de laatste tijd steeds vaker op social media en in de reguliere media: je spaargeld levert niks meer op en kost je zelfs geld. De berichten over rente, belasting en inflatie vliegen je om de oren. Hoe zit dat nou eigenlijk precies? Kost het echt geld om jouw spaargeld op een spaarrekening te laten staan? Moet je alternatieven gaan zoeken voor jouw spaargeld? In dit artikel zal ik het kort samenvatten en inleiden.
+Je hoort het de laatste tijd steeds vaker op social media en in de reguliere media: je spaargeld levert niks meer op en kost je zelfs geld. De berichten over rente, belasting en inflatie vliegen je om de oren. ---
+excerpt_separator: <!--more-->
+---Hoe zit dat nou eigenlijk precies? Kost het echt geld om jouw spaargeld op een spaarrekening te laten staan? Moet je alternatieven gaan zoeken voor jouw spaargeld? In dit artikel zal ik het kort samenvatten en inleiden.
 
 ## Hoe zit het nou met die spaarrente?
 
