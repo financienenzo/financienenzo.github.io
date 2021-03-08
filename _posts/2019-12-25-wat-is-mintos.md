@@ -4,7 +4,7 @@ title:  "Wat is Mintos?"
 categories: [ Spaargeld, Rente, Affiliate ]
 image: assets/images/1.jpg
 featured: true
-date: 25-12-2019
+date: 2019-12-25
 ---
 
 Sinds enkele maanden investeren wij geld op het platform van Mintos, zoals je hier en hier kunt lezen. Maar wat is Mintos nu exact en hoe veilig is het om op Mintos te investeren? In dit blog besteden wij daar wat tijd aan.
