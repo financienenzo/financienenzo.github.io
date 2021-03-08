@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hoe zit het nou eigenlijk met je spaargeld (en de rente, belasting en inflatie)?"
-categories: [ Spaargeld, Rente, Belasting, Inflatie, Affiliate ]
+tags: [ Spaargeld, Rente, Belasting, Inflatie, Affiliate ]
 image: assets/images/1.jpg
 featured: true
 date: 2021-01-17
