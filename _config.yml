@@ -45,6 +45,7 @@ jekyll-archives:
     post: '/:title/'
     
 # Other
+permalink: /:title/
 markdown: kramdown
 highlighter: rouge
 search: true
