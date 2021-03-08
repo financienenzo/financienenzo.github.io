@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Eerste stappen met Mintos"
-categories: [ Spaargeld, Rente, Affiliate ]
+tags: [ Spaargeld, Rente, Affiliate ]
 image: assets/images/1.jpg
 featured: true
 date: 2019-09-09
