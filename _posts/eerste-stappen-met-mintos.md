@@ -10,13 +10,12 @@ date: 09-09-2019
 Na diverse artikelen te hebben gelezen over Mintos ben ik uiteindelijk overstag gegaan. Mintos is ook onze eerste oplossing welke wij hebben gebruikt met betrekking tot investeren.
 
 Wij zullen onze ervaringen de komende tijd met jullie delen!
-```
-Mintos is een P2P (peer to peer) systeem waarbij je geld uitleent aan particulieren en bedrijven Mintos is één van de bekendste en grootste platformen voor P2P lending.
 
-Peer-2-peer lending kan je ook wel omschrijven als Crowdfunding of micro krediet.
-
-Over het geld dat je uitleent aan anderen via een platform als Mintos, krijg je rente uitgekeerd. Je bent dus eigenlijk een kleine bank geworden.
-```
+>Mintos is een P2P (peer to peer) systeem waarbij je geld uitleent aan particulieren en bedrijven Mintos is één van de bekendste en grootste platformen voor P2P lending.
+>
+>Peer-2-peer lending kan je ook wel omschrijven als Crowdfunding of micro krediet.
+>
+>Over het geld dat je uitleent aan anderen via een platform als Mintos, krijg je rente uitgekeerd. Je bent dus eigenlijk een kleine bank geworden.
 
 ## Stap 1 – Mintos account aanmaken
 Als eerste dien je uiteraard een account aan te maken bij Mintos. Dit bestaat uit het invullen van enkele gegevens: je naam, email adres, een wachtwoord en het land waar je woont. Uiteraard dien je nog akkoord te gaan met de algemene voorwaarden – zoals je overal hebt.
@@ -26,9 +25,7 @@ Nadat je een account hebt aangemaakt dien je je identiteit te verifiëren. Dit d
 
 Mocht je tijdens het verifiëren er tegen aan lopen dat je foto en/of paspoort gespiegeld word weergegeven, maak je dan geen zorgen. Dit staat de verificatie niet in de weg!
 
-```
-Het verifiëren van je account is uitbesteed aan het bedrijf Veriff. Een gerenommeerd bedrijf dat veilig met je gegevens omgaat, geheel volgens de GDPR regelgeving.
-```
+> Het verifiëren van je account is uitbesteed aan het bedrijf Veriff. Een gerenommeerd bedrijf dat veilig met je gegevens omgaat, geheel volgens de GDPR regelgeving.
 
 ## Stap 3 – Geld overmaken naar Mintos
 Als je account geverifieerd is, kan je voor het eerst je geld overmaken. Zonder geld in je account kan je natuurlijk geen investeringen doen. Je kunt je geld overmaken of gebruik maken van iDeal. In beide gevallen is het belangrijk dat je geld overmaakt van een rekening welke op dezelfde naam staat als het account bij Mintos.
