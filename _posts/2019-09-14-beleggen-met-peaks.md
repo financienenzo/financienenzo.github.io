@@ -3,6 +3,7 @@ layout: post
 title:  "Belggen met Peaks"
 tags: [ Beleggen, Investeren, Affiliate ]
 image: assets/images/1.jpg
+author: financien
 date: 2019-09-14
 ---
 
