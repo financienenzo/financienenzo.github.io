@@ -44,14 +44,6 @@ post_class: post-template
 			{% if page.image %}<img class="featured-image img-fluid" src="{{ site.baseurl }}/{{ page.image }}" alt="{{ page.title }}">{% endif %}
 			<!-- End Featured Image -->
 				
-			<p>
-			  {{ page.date | date_to_string }}
-			  {% assign author = site.authors | where: 'short_name', page.author | first %}
-			  {% if author %}
-			    <a href="{{ author.url }}">{{ author.name }}</a>
-			  {% endif %}
-			</p>
-			
 			<!-- Post Content -->
 			<div class="article-post">
 				{{content}}
