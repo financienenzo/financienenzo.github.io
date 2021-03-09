@@ -14,11 +14,22 @@ Sinds mijn aanmelding heb ik 12 verschillende uitnodigingen mogen ontvangen, waa
 ## De stand na één jaar
 
 <div class="wrapper">
-    <div class="counter col_fourth">
+    <div class="counter col_third">
       <i class="fa fa-code fa-2x"></i>
       <h2 class="timer count-title count-number" data-to="9" data-speed="5000"></h2>
        <p class="count-text ">Aantal onderzoeken</p>
     </div>
+    <div class="counter col_third">
+      <i class="fa fa-code fa-2x"></i>
+      <h2 class="timer count-title count-number" data-to="16data-speed="5000"></h2>
+       <p class="count-text ">Aantal besteedde uren</p>
+    </div>
+    <div class="counter col_third end
+      <i class="fa fa-code fa-2x"></i>
+      <h2 class="timer count-title count-number" data-to="183data-speed="5000"></h2>
+       <p class="count-text ">Inkomsten
+    </div>
+</div>
 
 Zoals je kunt zien heb ik niet heel veel verschillende onderzoeken gehad en viel de tijd welke ik erin heb gestoken best mee voor de vergoeding welke er tegenover staat. De vergoeding hangt af van het aantal gevonden bugs in de tests.
 
