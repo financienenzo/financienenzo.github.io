@@ -3,7 +3,7 @@ layout: post
 title:  "Cryptocurrency? Financiën enzo legt het uit!"
 categories: [ cryptovaluta ]
 tags: [ Cryptovaluta ]
-image: assets/images/1.jpg
+image: assets/images/4.jpg
 date: 2021-02-14
 featured: true
 ---
