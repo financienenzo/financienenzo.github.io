@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Cryptocurrency? Financiën enzo legt het uit!"
-author: financien
 categories: [ cryptovaluta ]
 tags: [ Cryptovaluta ]
 image: assets/images/cryptocurrency-3409641_1920-980x685.jpg
