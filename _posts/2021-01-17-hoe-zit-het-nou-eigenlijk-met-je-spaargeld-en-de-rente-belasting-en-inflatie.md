@@ -40,4 +40,4 @@ Het klinkt natuurlijk ideaal: geld beleggen of investeren en vervolgens jouw spa
 Ik ben Jan Modaal is een blog over geldzaken, persoonlijke financiën en financiële vrijheid. Daarnaast heeft Jan Modaal (letterlijk) een spel gemaakt van het regelen van je financiën: Money Game. De leukste en makkelijkste manier om je geldzaken te regelen.
 <hr>
 
-Foto door <a href="https://www.pexels.com/nl-nl/foto/stapel-gouden-ronde-munten-106152/" target="_blank">Pixabay via Pexels</a>.
+Foto door <a href="https://www.pexels.com/nl-nl/foto/stapel-gouden-ronde-munten-106152/" target="_blank" rel="noreferrer noopener">Pixabay via Pexels</a>.
