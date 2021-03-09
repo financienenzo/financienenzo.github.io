@@ -2,7 +2,7 @@
 layout: post
 title:  "Eerste stappen met Mintos"
 tags: [ Spaargeld, Rente, Affiliate ]
-image: assets/images/1.jpg
+image: assets/images/mintos-countries-invest.png
 date: 2019-09-09
 ---
 
@@ -19,6 +19,8 @@ Wij zullen onze ervaringen de komende tijd met jullie delen!
 ## Stap 1 – Mintos account aanmaken
 Als eerste dien je uiteraard een account aan te maken bij Mintos. Dit bestaat uit het invullen van enkele gegevens: je naam, email adres, een wachtwoord en het land waar je woont. Uiteraard dien je nog akkoord te gaan met de algemene voorwaarden – zoals je overal hebt.
 
+![Aanmaken van een account bij Mintos](/assets/images/account-aanmaken.png)
+
 ## Stap 2 – Identiteit verifiëren
 Nadat je een account hebt aangemaakt dien je je identiteit te verifiëren. Dit doe je door een foto van je gezicht te maken, een foto van je paspoort & een foto van je gezicht + paspoort. Als het goed is ontvang je enkele minuten een email waarin word aangegeven dat je identiteit geverifieerd is.
 
@@ -31,6 +33,8 @@ Als je account geverifieerd is, kan je voor het eerst je geld overmaken. Zonder 
 
 Het geld wat je overmaakt staat niet direct op je account. Waarschijnlijk zit hier nog een handmatig proces achter waar de naam van de rekening eigenaar en het Mintos account met elkaar wordt vergeleken.
 Je kunt rekening houden met 1 tot 2 werkdagen voor het geld in je account zichtbaar is.
+
+![Geld overmaken naar Mintos](/assets/images/geld-overmaken.png)
 
 ## Stap 4 – De eerste investering(en)
 Nadat mijn betaling via iDeal was goedgekeurd en in mijn account zichtbaar was bleek er al automatisch €10,- geïnvesteerd te zijn, verdeeld over 10 verschillende leningen. Dit word gedaan om je te laten zien wat het platform kan. Ik heb deze 10 leningen laten staan en wacht tot het zijn geld heeft opgeleverd.
@@ -48,6 +52,8 @@ Gelukkig heeft Mintos de mogelijkheid om automatisch te investeren, waardoor je 
 + Rating niet lager dan B+
 + Buyback garantie
 + Alleen leningen in Euro’s
+
+![Strategie in Mintos](/assets/images/strategy-in-mintos.png)
 
 ## Ook aan de slag?
 Tot zover onze eerste stappen met peer-2-peer lending. Wij zijn erg benieuwd naar jullie ervaringen en of jullie op basis van deze informatie ook aan de slag willen gaan!
