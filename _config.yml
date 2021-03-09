@@ -1,8 +1,8 @@
 # Site
 name: "Financiën enzo"
-title: "Financiën enzo - investeer in je toekomst"
-description: "Jekyll Theme for Blogging"
-meta_description: "Jekyll theme for blogging."
+title: "Financiën enzo - investeer in je financiële toekomst"
+description: "Financiën enzo is een persoonlijk blog welke tips en trucks geeft om te investeren in je financiële toekomst."
+meta_description: "Financiën enzo is een persoonlijk blog welke tips en trucks geeft om te investeren in je financiële toekomst. Het is blijft belangrijk om zelf onderzoek uit te voeren naar de tips en trucks welke je hier tegen komt. Dit blog geeft géén persoonlijk financieel advies!"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 paginate: 6
