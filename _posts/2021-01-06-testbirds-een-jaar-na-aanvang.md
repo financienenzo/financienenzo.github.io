@@ -15,19 +15,19 @@ Sinds mijn aanmelding heb ik 12 verschillende uitnodigingen mogen ontvangen, waa
 
 <div class="wrapper">
     <div class="counter col_third">
-      <i class="fa fa-code fa-2x"></i>
+      <i class="fas fa-sort-numeric-up-alt fa-2x"></i>
       <h2 class="timer count-title count-number" data-to="9" data-speed="2000"></h2>
-       <p class="count-text ">Aantal onderzoeken</p>
+      <p class="count-text ">Aantal onderzoeken</p>
     </div>
     <div class="counter col_third">
-      <i class="fa fa-code fa-2x"></i>
+      <i class="far fa-calendar-times fa-2x"></i>
       <h2 class="timer count-title count-number" data-to="16data-speed="2000"></h2>
-       <p class="count-text ">Aantal besteedde uren</p>
+      <p class="count-text ">Aantal besteedde uren</p>
     </div>
     <div class="counter col_third end
-      <i class="fa fa-code fa-2x"></i>
+      <i class="fas fa-euro-sign fa-2x"></i>
       <h2 class="timer count-title count-number" data-to="183data-speed="2000"></h2>
-       <p class="count-text ">Inkomsten
+      <p class="count-text ">Inkomsten
     </div>
 </div>
 
