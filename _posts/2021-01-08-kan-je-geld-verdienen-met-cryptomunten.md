@@ -3,7 +3,7 @@ layout: post
 title:  "Kan je geld verdienen met cryptomunten?"
 categories: [ cryptovaluta ]
 tags: [ Cryptovaluta, Affiliate ]
-image: assets/images/4.jpg
+image: assets/images/cryptocurrency-3409641_1920-980x685.jpg
 date: 2021-01-08
 ---
 
@@ -26,8 +26,6 @@ Na in aanraking te zijn gekomen met de eerste crypto valuta werd het tijd om mee
 Ik heb, door vallen en opstaan (verliezen en winst), mij wat kennis weten bij te brengen. Mede dankzij de hulp van mijn collega’s en een wat minder drukke tijd bij mijn toenmalige werkgever. Op een blauwe maandag heb ik zelfs allemaal hardware besteld om een eigen mining-rig mee te bouwen. Een zelf samengestelde computer welke geoptimaliseerd is voor het maken van nieuwe valuta. Dit bleek uiteindelijk geen goed plan, mede door de prijzen van de energiemarkt. Snel de hardware maar weer verkocht voor een redelijke prijs (helaas heeft dit hele plan mij meer geld gekost dan opgeleverd).
 
 Zo zijn er helaas wel meer valkuilen. Een collega meldde mij onlangs dat hij ooit met 2 bitcoins een pizza had gekocht. Had mijn collega zijn bitcoins bewaard, dan waren die op dit moment meer dan €60.000,- waard geweest! Heb jij een lange adem? Kan jij je rust bewaren op de beurs bij het handelen? Dan kan jij wellicht geld verdienen met crypto munten!
-
- 
 
 ## Hoe kan je verdienen aan crypto valuta?
 Ik kan hier natuurlijk een heel verhaal gaan ophangen over hoe je dit het beste kunt doen, maar ik heb de afgelopen tijd erg veel gehad aan onderstaande gratis online Bitcoin Training. Derek en Patrick zijn al jaren bezig met het begeleiden van anderen in het handelen in verschillende valuta en bieden jou een schat aan informatie in de onderstaande gratis training. 
