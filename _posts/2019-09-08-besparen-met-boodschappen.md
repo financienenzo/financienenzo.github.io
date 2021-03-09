@@ -4,7 +4,6 @@ title:  "Besparen met boodschappen"
 categories: [ Boodschappen ]
 tags: [ Vrije tijd, Affiliate ]
 image: assets/images/1.jpg
-author: financien
 date: 2019-09-08
 ---
 ## Lijstjes
