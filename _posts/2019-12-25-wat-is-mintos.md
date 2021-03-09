@@ -2,7 +2,7 @@
 layout: post
 title:  "Wat is Mintos?"
 tags: [ Spaargeld, Rente, Affiliate ]
-image: assets/images/1.jpg
+image: assets/images/mintos-countries-invest.png
 date: 2019-12-25
 ---
 
@@ -20,6 +20,8 @@ Je kunt je risico’s met Mintos echter wel zoveel mogelijk proberen te beperken
 Mocht de lening niet terug betaald worden en je hebt buyback, dan staat de ‘loan originator’ garant voor jou inleg + rente.
 
 Naast de buyback garantie is het verstandig om naar de rating van de ‘loan originator’ te kijken. Zo leen ik mijn geld niet uit als de rating lager is dan B.
+
+![Een kluis met geld](/assets/images/safe-with-money.jpg)
 
 Daarnaast is het ook nog verstandig om je investeringen zo veel mogelijk te spreiden over kleine leningen. Het is natuurlijk zuur als je het uitgeleende geld niet terug ontvangt, echter zal je dit met kleine investeringen sneller goed kunnen maken dan met één grote investering.
 
