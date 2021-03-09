@@ -5,11 +5,11 @@ tags: [ Mintos, Investeren, Affiliate ]
 image: assets/images/mintos-countries-invest.png
 date: 2019-12-22
 ---
-Zoals je hier kunt lezen zijn wij enige tijd geleden begonnen met onze eerste stappen op het platform van Mintos, een micro krediet verstrekker voor mensen onderling (ook wel peer to peer).
+Zoals je [hier]({% post_url eerste-stappen-met-mintos %}) kunt lezen zijn wij enige tijd geleden begonnen met onze eerste stappen op het platform van <a href="http://www.mintos.com/en/l/ref/DCUEKF" target="_blank" rel="noreferrer noopener">Mintos</a>, een micro krediet verstrekker voor mensen onderling (ook wel peer to peer).
 
 We zijn nu iets meer dan een kwartaal onderweg met Mintos en wij hebben hier al vele malen meer geld mee verdiend dan dat wij met onze spaarrekening hebben verdiend (of eigenlijk verloren).
 
-![My helpful screenshot](/assets/images/investment-mintos-1-quarter.png)
+![De resultaten na 1 kwartaal](/assets/images/investment-mintos-1-quarter.png)
 
 ## Niet al ons geld word geïnvesteerd!
 Na enkele weken met Mintos kwamen wij erachter dat niet al het ingelegde geld geïnvesteerd werd en dat wij mogelijk wat zaken met betrekking tot het automatisch investeren moesten gaan aanpassen.
@@ -19,7 +19,7 @@ Geld wat stilstaat wordt natuurlijk niet meer waard, dus werd het tijd voor wat 
 + Secondary market
 + Business loans op primary market
 
-![My helpful screenshot](/assets/images/niet-alles-word-geinvesteerd.png)
+![Niet al het geld wordt geïnvesteerd](/assets/images/niet-alles-word-geinvesteerd.png)
 
 ## Secondary market
 De secondary market is de markt waar je leningen kunt vinden van mensen die zich terug willen trekken uit de lening. Dit kan bijvoorbeeld zijn omdat ze hun geld zo snel mogelijk terug willen hebben. Je kunt dan in deze leningen instappen en je krijgt een korting op de koop toe (dus een beetje extra gratis geld!)
@@ -50,4 +50,4 @@ Uiteraard is investeren niet zonder risico. Je kunt bijvoorbeeld je geld verliez
 ## Ook aan de slag?
 Wij zijn erg benieuwd naar jullie ervaringen en of jullie op basis van deze informatie ook aan de slag willen gaan!
 
-Ga jij ook aan de slag? Inschrijven is gratis en zowel jij als wij krijgen een kleine vergoeding. De vergoeding gebruiken wij om dit blog actueel en in de lucht te houden.
+Ga jij ook aan de slag? <a href="http://www.mintos.com/en/l/ref/DCUEKF" target="_blank" rel="noreferrer noopener">Inschrijven is gratis en zowel jij als wij krijgen een kleine vergoeding</a>. De vergoeding gebruiken wij om dit blog actueel en in de lucht te houden.
