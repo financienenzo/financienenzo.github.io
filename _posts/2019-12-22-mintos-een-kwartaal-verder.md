@@ -51,5 +51,3 @@ Uiteraard is investeren niet zonder risico. Je kunt bijvoorbeeld je geld verliez
 Wij zijn erg benieuwd naar jullie ervaringen en of jullie op basis van deze informatie ook aan de slag willen gaan!
 
 Ga jij ook aan de slag? <a href="http://www.mintos.com/en/l/ref/DCUEKF" target="_blank" rel="noreferrer noopener">Inschrijven is gratis en zowel jij als wij krijgen een kleine vergoeding</a>. De vergoeding gebruiken wij om dit blog actueel en in de lucht te houden.
-
-[hierr]:({% post_url eerste-stappen-met-mintos %})
