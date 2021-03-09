@@ -4,6 +4,7 @@ title:  "Testbirds – één jaar na aanvang"
 categories: [ Terugkijken ]
 tags: [ Testbirds, Affiliate ]
 image: assets/images/template-1599663_1280-1080x675.png
+author: financien
 date: 2021-01-06
 ---
 
