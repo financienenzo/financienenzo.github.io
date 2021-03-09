@@ -5,7 +5,7 @@ tags: [ Mintos, Investeren, Affiliate ]
 image: assets/images/mintos-countries-invest.png
 date: 2019-12-22
 ---
-Zoals je [hier]({% post_url eerste-stappen-met-mintos %}) kunt lezen zijn wij enige tijd geleden begonnen met onze eerste stappen op het platform van <a href="http://www.mintos.com/en/l/ref/DCUEKF" target="_blank" rel="noreferrer noopener">Mintos</a>, een micro krediet verstrekker voor mensen onderling (ook wel peer to peer).
+Zoals je hier kunt lezen zijn wij enige tijd geleden begonnen met onze eerste stappen op het platform van <a href="http://www.mintos.com/en/l/ref/DCUEKF" target="_blank" rel="noreferrer noopener">Mintos</a>, een micro krediet verstrekker voor mensen onderling (ook wel peer to peer).
 
 We zijn nu iets meer dan een kwartaal onderweg met Mintos en wij hebben hier al vele malen meer geld mee verdiend dan dat wij met onze spaarrekening hebben verdiend (of eigenlijk verloren).
 
