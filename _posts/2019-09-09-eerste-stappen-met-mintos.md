@@ -6,7 +6,7 @@ image: assets/images/mintos-countries-invest.png
 date: 2019-09-09
 ---
 
-Na diverse artikelen te hebben gelezen over Mintos ben ik uiteindelijk overstag gegaan. Mintos is ook onze eerste oplossing welke wij hebben gebruikt met betrekking tot investeren.
+Na diverse artikelen te hebben gelezen over <a href="http://www.mintos.com/en/l/ref/DCUEKF" target="_blank" rel="noreferrer noopener">Mintos</a> ben ik uiteindelijk overstag gegaan. Mintos is ook onze eerste oplossing welke wij hebben gebruikt met betrekking tot investeren.
 
 Wij zullen onze ervaringen de komende tijd met jullie delen!
 
@@ -17,7 +17,7 @@ Wij zullen onze ervaringen de komende tijd met jullie delen!
 >Over het geld dat je uitleent aan anderen via een platform als Mintos, krijg je rente uitgekeerd. Je bent dus eigenlijk een kleine bank geworden.
 
 ## Stap 1 – Mintos account aanmaken
-Als eerste dien je uiteraard een account aan te maken bij Mintos. Dit bestaat uit het invullen van enkele gegevens: je naam, email adres, een wachtwoord en het land waar je woont. Uiteraard dien je nog akkoord te gaan met de algemene voorwaarden – zoals je overal hebt.
+Als eerste dien je uiteraard een account aan te maken bij <a href="http://www.mintos.com/en/l/ref/DCUEKF" target="_blank" rel="noreferrer noopener">Mintos</a>. Dit bestaat uit het invullen van enkele gegevens: je naam, email adres, een wachtwoord en het land waar je woont. Uiteraard dien je nog akkoord te gaan met de algemene voorwaarden – zoals je overal hebt.
 
 ![Aanmaken van een account bij Mintos](/assets/images/account-aanmaken.png)
 
@@ -58,4 +58,4 @@ Gelukkig heeft Mintos de mogelijkheid om automatisch te investeren, waardoor je 
 ## Ook aan de slag?
 Tot zover onze eerste stappen met peer-2-peer lending. Wij zijn erg benieuwd naar jullie ervaringen en of jullie op basis van deze informatie ook aan de slag willen gaan!
 
-Ga jij ook aan de slag?
+Ga jij ook aan de slag? <a href="http://www.mintos.com/en/l/ref/DCUEKF" target="_blank" rel="noreferrer noopener">Inschrijven is gratis en wij krijgen een kleine vergoeding om dit blog in de lucht te houden!</a>
