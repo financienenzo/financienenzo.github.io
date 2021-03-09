@@ -15,10 +15,10 @@ Sinds mijn aanmelding heb ik 12 verschillende uitnodigingen mogen ontvangen, waa
 Na één jaar heb ik 9 onderzoeken mogen doen, verdeeld over ongeveer 16 uur.
 De totale verdiensten over één jaar:
 <div class="wrapper">
-    <div class="counter col_third end
+    <div class="counter col_third end">
       <i class="fas fa-euro-sign fa-2x"></i>
       <h2 class="timer count-title count-number" data-to="183data-speed="2000"></h2>
-      <p class="count-text ">Inkomsten
+    <p class="count-text ">Inkomsten</p>
     </div>
 </div>
 
