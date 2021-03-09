@@ -34,3 +34,10 @@ Hoe groot jouw buffer zou moeten zijn? Dat hangt af van jouw situatie, maar mees
 
 Het klinkt natuurlijk ideaal: geld beleggen of investeren en vervolgens jouw spaargeld laten groeien, zonder er wat voor te hoeven doen. Het is echter wel belangrijk dat je eerst een stabiele basis opbouwt, voordat jij je überhaupt gaat verdiepen in alternatieven zoals beleggen en investeren. Maak een goed overzicht van jouw financiën, betaal eventuele schulden af, bouw een spaarpotje op voor onvoorziene uitgaven en een flinke spaarpot dat als buffer kan dienen. Weet je niet zo goed waar je moet beginnen? Dan is <a href="https://www.paypro.nl/producten/Ik_ben_Jan_Modaal/79165/86238" target="_blank" rel="noreferrer noopener">Money Game</a> het perfecte spel voor jou. Met dit spel volg je de vakjes op een bordspel, voer je opdrachten uit en eindig je met een financiële basis. Kortom: een leukere en makkelijkere manier om jouw financiële doelen te behalen.
 ![Jan Modaal's Money Game](/assets/images/money-game-jan-modaal-ikbenjanmodaal-geldzaken.jpg)
+
+<hr>
+### Geschreven door Ik ben Jan Modaal
+Ik ben Jan Modaal is een blog over geldzaken, persoonlijke financiën en financiële vrijheid. Daarnaast heeft Jan Modaal (letterlijk) een spel gemaakt van het regelen van je financiën: Money Game. De leukste en makkelijkste manier om je geldzaken te regelen.
+<hr>
+
+Foto door <a href="https://www.pexels.com/nl-nl/foto/stapel-gouden-ronde-munten-106152/" target="_blank">Pixabay via Pexels</a>.
