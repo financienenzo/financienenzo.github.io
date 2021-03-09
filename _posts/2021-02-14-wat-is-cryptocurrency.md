@@ -5,6 +5,7 @@ categories: [ cryptovaluta ]
 tags: [ Cryptovaluta ]
 image: assets/images/1.jpg
 date: 2021-02-14
+featured: true
 ---
 
 Cryptocurrency is een op internet gebaseerd ruilmiddel dat cryptografische functies gebruikt om financiële transacties uit te voeren. Cryptocurrencies maken gebruik van blockchain-technologie om decentralisatie, transparantie en onveranderlijkheid te verkrijgen. Het belangrijkste kenmerk van een cryptocurrency is dat deze niet wordt gecontroleerd door een centrale autoriteit. Het karakter van de blockchain maakt cryptocurrencies theoretisch immuun voor de oude manieren van overheidscontrole en inmenging. Cryptocurrencies kunnen rechtstreeks tussen twee partijen worden verzonden via het gebruik van privé- en openbare sleutels. Deze overdrachten kunnen worden gedaan met minimale verwerkingskosten, waardoor gebruikers de hoge vergoedingen die traditionele financiële instellingen in rekening brengen, kunnen vermijden.
