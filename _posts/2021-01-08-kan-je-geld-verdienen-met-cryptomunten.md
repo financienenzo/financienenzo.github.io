@@ -4,7 +4,7 @@ title:  "Kan je geld verdienen met cryptomunten?"
 categories: [ cryptovaluta ]
 tags: [ Cryptovaluta, Affiliate ]
 image: assets/images/4.jpg
-featured: true
+date: 2021-01-08
 ---
 
 ### Bitcoin begint het jaar goed en breekt voorgaande records!
