@@ -3,6 +3,7 @@ layout: post
 title:  "Mintos - een kwartaal verder"
 tags: [ Mintos, Investeren, Affiliate ]
 image: assets/images/mintos-countries-invest.png
+author: financien
 date: 2019-12-22
 ---
 Zoals je [hier]({% post_url eerste-stappen-met-mintos %}) kunt lezen zijn wij enige tijd geleden begonnen met onze eerste stappen op het platform van <a href="http://www.mintos.com/en/l/ref/DCUEKF" target="_blank" rel="noreferrer noopener">Mintos</a>, een micro krediet verstrekker voor mensen onderling (ook wel peer to peer).
