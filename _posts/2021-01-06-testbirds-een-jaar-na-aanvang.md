@@ -12,15 +12,29 @@ Het is inmiddels één jaar nadat ik mij heb aangemeld bij Testbirds. Testbirds 
 
 Sinds mijn aanmelding heb ik 12 verschillende uitnodigingen mogen ontvangen, waarvan ik er aan 9 heb mee kunnen doen. Soms gaat het aantal mensen die mee doet met een test zo snel dat ik mij niet tijdig heb kunnen inschrijven.
 
-Na één jaar heb ik 9 onderzoeken mogen doen, verdeeld over ongeveer 16 uur.
-De totale verdiensten over één jaar:
+## De stand na één jaar
+<div class="wrapper">
+    <div class="counter col_third">
+      <i class="fas fa-sort-numeric-up-alt fa-2x"></i>
+      <h2 class="timer count-title count-number" data-to="9" data-speed="2000"></h2>
+      <p class="count-text ">Aantal onderzoeken</p>
+    </div>
+</div>
+<div class="wrapper">
+    <div class="counter col_third">
+      <i class="far fa-calendar-times fa-2x"></i>
+      <h2 class="timer count-title count-number" data-to="16data-speed="2000"></h2>
+      <p class="count-text ">Aantal besteedde uren</p>
+    </div>
+</div>
 <div class="wrapper">
     <div class="counter col_third end">
       <i class="fas fa-euro-sign fa-2x"></i>
       <h2 class="timer count-title count-number" data-to="183data-speed="2000"></h2>
-    <p class="count-text ">Inkomsten</p>
+      <p class="count-text ">Inkomsten</p>
     </div>
 </div>
+
 
 Zoals je kunt zien heb ik niet heel veel verschillende onderzoeken gehad en viel de tijd welke ik erin heb gestoken best mee voor de vergoeding welke er tegenover staat. De vergoeding hangt af van het aantal gevonden bugs in de tests.
 
