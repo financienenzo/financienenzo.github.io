@@ -51,10 +51,8 @@ jekyll-archives:
   layout: archive
   permalinks:
     category: '/category/:name/'
-    post: '/:title/'
     
 # Other
-permalink: /:title/
 markdown: kramdown
 highlighter: rouge
 search: true
