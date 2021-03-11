@@ -5,6 +5,7 @@ author: Financien
 categories: [ cryptovaluta ]
 tags: [ Cryptovaluta, Affiliate ]
 image: assets/images/cryptocurrency-3409641_1920-980x685.jpg
+permalink: /:categories/:title
 date: 2021-01-08
 ---
 
