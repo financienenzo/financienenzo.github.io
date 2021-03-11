@@ -5,6 +5,7 @@ author: Financien
 categories: [ vrije tijd ]
 tags: [ Vrije tijd, Affiliate ]
 image: assets/images/man-791049_1920.jpg.jpg
+permalink: /:categories/:title
 date: 2019-12-25
 ---
 
