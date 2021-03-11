@@ -4,7 +4,7 @@ title:  "Vrije tijd nuttig besteden"
 author: Financien
 categories: [ vrije tijd ]
 tags: [ Vrije tijd, Affiliate ]
-image: /assets/images/man-791049_1920.jpg.jpg
+image: assets/images/man-791049_1920.jpg
 permalink: /:categories/:title
 date: 2019-08-21
 ---
