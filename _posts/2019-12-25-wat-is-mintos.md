@@ -5,6 +5,7 @@ author: Financien
 categories: [ mintos ]
 tags: [ Spaargeld, Rente, Affiliate ]
 image: assets/images/mintos-countries-invest.png
+permalink: /:categories/:title
 date: 2019-12-25
 ---
 
