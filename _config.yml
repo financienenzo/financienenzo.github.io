@@ -39,10 +39,10 @@ jekyll-archives:
   layout: archive
   permalinks:
     category: '/category/:name/'
-    post: '/category/:title/'
-    
+ 
 # Other
-parmalinks: '/category/:title/'
+permalinks:
+  post: '/:categories/:title'
 markdown: kramdown
 highlighter: rouge
 search: true
