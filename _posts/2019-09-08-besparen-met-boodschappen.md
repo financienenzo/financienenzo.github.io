@@ -2,7 +2,7 @@
 layout: post
 title:  "Besparen met boodschappen"
 author: Financien
-categories: [ spaargeld ]
+categories: [ boodschappen ]
 tags: [ Vrije tijd, Affiliate ]
 image: assets/images/supermarkt-gangpad.jpg
 permalink: /:categories/:title
