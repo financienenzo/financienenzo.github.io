@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Kan je geld verdienen met cryptomunten?"
+author: Financien
 categories: [ cryptovaluta ]
 tags: [ Cryptovaluta, Affiliate ]
 image: assets/images/cryptocurrency-3409641_1920-980x685.jpg
