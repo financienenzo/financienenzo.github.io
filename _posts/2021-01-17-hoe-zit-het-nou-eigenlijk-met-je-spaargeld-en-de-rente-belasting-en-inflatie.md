@@ -6,6 +6,7 @@ categories: [ spaargeld ]
 tags: [ Spaargeld, Rente, Belasting, Inflatie, Affiliate ]
 image: assets/images/spaargeld-op-de-bank-alternatieven-1024x640.jpg
 featured: true
+permalink: /:categories/:title
 date: 2021-01-17
 ---
 
