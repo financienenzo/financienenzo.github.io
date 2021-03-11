@@ -5,6 +5,7 @@ author: Financien
 categories: [ spaargeld ]
 tags: [ Vrije tijd, Affiliate ]
 image: assets/images/1.jpg
+permalink: /categories/title
 date: 2019-09-08
 ---
 ## Lijstjes
