@@ -9,7 +9,7 @@ permalink: /:categories/:title
 date: 2019-09-14
 ---
 
-Nadat wij met Mintos zijn begonnen zijn wij ook met Peaks aan de slag gegaan. Bij Peaks kun je je wisselgeld beleggen op twee manieren. Heb je een bankrekening bij de Rabobank, dan kan je iedere transactie afronden naar hele euro’s. Bijvoorbeeld: heb jij iets betaald voor €3,18 dan zet je €0,82 opzij.
+Nadat wij met [Mintos][Mintoslnk] zijn begonnen zijn wij ook met Peaks aan de slag gegaan. Bij Peaks kun je je wisselgeld beleggen op twee manieren. Heb je een bankrekening bij de Rabobank, dan kan je iedere transactie afronden naar hele euro’s. Bijvoorbeeld: heb jij iets betaald voor €3,18 dan zet je €0,82 opzij.
 Als je geen bankrekening bij de Rabobank hebt, dan kan je via een machtiging wekelijks of maandelijks geld opzij zetten.
 
 Je wisselgeld word automatisch voor je belegd in door Peaks gekozen indexfondsen. Hierin heb je 4 verschillende risico mogelijkheden, te weten: Mild, Pittig, Scherp en Heet. Afhankelijk van welk risico je kiest word je geld op een andere manier verdeeld. Hoe groter risico je neemt, hoe meer geld je zou kunnen verdienen.
@@ -20,7 +20,7 @@ Je wisselgeld word automatisch voor je belegd in door Peaks gekozen indexfondsen
 De eerste 3 maanden betaal je bij Peaks geen geld voor het onderhouden van je beleggingen. Na 3 maanden betaal je €1,- per maand als je beleggingen minder dan €2.500,- waard zijn, zijn je beleggingen meer waard dan ga je 0,5% per jaar betalen over je beleggingen.
 
 ## Aan de slag met Peaks
-Peaks werkt alleen vanaf je mobiele telefoon. Er is een App voor Android en voor Apple. Download dus eerst de app als je aan de slag wilt gaan! Zodra de app op je telefoon staat krijg je een soort chat achtige interface via waar je alles instelt.
+Peaks werkt alleen vanaf je mobiele telefoon. Er is een App voor [Android][Androidlnk] en voor [Apple][Applelnk]. Download dus eerst de app als je aan de slag wilt gaan! Zodra de app op je telefoon staat krijg je een soort chat achtige interface via waar je alles instelt.
 In ons geval hebben wij (onder andere) een Rabobank rekening, dus hebben wij ervoor gekozen om met deze rekening aan de slag te gaan. Na het doorlopen van de interface konden we direct aan de slag!
 
 ## Actiecode – €5,- gratis
@@ -43,3 +43,7 @@ Zo krijg je inzicht in wat je hebt ingelegd en wat de winst / verlies is op je b
 Vul de actiecode “DANIEGTOH” in de Peaks app in en je ontvangt €5,- Wij ontvangen eveneens €5,- waarmee wij dit blog draaiende kunnen houden!
 
 Ga jij na het lezen van dit artikel enthousiast aan de slag of heb je al ervaring? Laat hieronder je reactie achter!
+
+[Mintoslnk]: /investeren/eerste-stappen-met-mintos
+[Androidlnk]: https://play.google.com/store/apps/details?id=com.peaks&hl=nl
+[Applelnk]: https://apps.apple.com/nl/app/peaks-beleggen/id1290848175
