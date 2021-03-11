@@ -6,6 +6,7 @@ categories: [ cryptovaluta ]
 tags: [ Cryptovaluta ]
 image: assets/images/cryptocurrency-3409641_1920-980x685.jpg
 date: 2021-02-14
+permalink: /:categories/:title
 featured: true
 ---
 
