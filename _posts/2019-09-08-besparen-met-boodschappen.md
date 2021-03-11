@@ -1,7 +1,8 @@
 ---
 layout: post
 title:  "Besparen met boodschappen"
-categories: [ Boodschappen ]
+author: Financienenzo
+categories: [ spaargeld ]
 tags: [ Vrije tijd, Affiliate ]
 image: assets/images/1.jpg
 date: 2019-09-08
