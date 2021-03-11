@@ -2,7 +2,7 @@
 layout: post
 title:  "Mintos - een kwartaal verder"
 author: Financien
-categories: [ mintos ]
+categories: [ investeren ]
 tags: [ Mintos, Investeren, Affiliate ]
 image: assets/images/mintos-countries-invest.png
 permalink: /:categories/:title
