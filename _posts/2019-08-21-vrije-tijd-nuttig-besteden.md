@@ -6,7 +6,7 @@ categories: [ vrije tijd ]
 tags: [ Vrije tijd, Affiliate ]
 image: /assets/images/man-791049_1920.jpg.jpg
 permalink: /:categories/:title
-date: 2019-21-08
+date: 2019-08-21
 ---
 
 Je kent het vast wel, een verloren uurtje waarbij je je afvraagt wat je nu weer eens zal gaan doen. Als je dit verloren uurtje nuttig inzet - of misschien multi-tasked op de bank - kan je hier nog een leuk zakcentje aan over houden. Hoe jij je vrije tijd nuttig kunt besteden kan je hieronder lezen!
