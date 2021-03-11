@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Wat is Mintos?"
+author: Financien
+categories: [ mintos ]
 tags: [ Spaargeld, Rente, Affiliate ]
 image: assets/images/mintos-countries-invest.png
 date: 2019-12-25
