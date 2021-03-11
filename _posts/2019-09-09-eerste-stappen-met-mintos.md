@@ -1,8 +1,11 @@
 ---
 layout: post
 title:  "Eerste stappen met Mintos"
+author: Financien
+categories: [ spaargeld ]
 tags: [ Spaargeld, Rente, Affiliate ]
 image: assets/images/mintos-countries-invest.png
+permalink: /:categories/:title
 date: 2019-09-09
 ---
 
