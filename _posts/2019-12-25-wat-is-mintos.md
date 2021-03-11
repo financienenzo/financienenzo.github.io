@@ -2,14 +2,14 @@
 layout: post
 title:  "Wat is Mintos?"
 author: Financien
-categories: [ mintos ]
+categories: [ investeren ]
 tags: [ Spaargeld, Rente, Affiliate ]
 image: assets/images/mintos-countries-invest.png
 permalink: /:categories/:title
 date: 2019-12-25
 ---
 
-Sinds enkele maanden investeren wij geld op het platform van Mintos, zoals je hier en hier kunt lezen. Maar wat is Mintos nu exact en hoe veilig is het om op Mintos te investeren? In dit blog besteden wij daar wat tijd aan.
+Sinds enkele maanden investeren wij geld op het platform van Mintos, zoals je [hier][hierlnk1] en [hier][hierlnk2] kunt lezen. Maar wat is Mintos nu exact en hoe veilig is het om op Mintos te investeren? In dit blog besteden wij daar wat tijd aan.
 
 Mintos is een marktplaat voor het investeren in leningen van anderen (peer-to-peer lening). De leningen worden aangeboden door ‘Loan originators’ (leningstellers) aan de investeerders. Je vind op Mintos letterlijk duizenden leningen die door de leningstellers worden aangeboden van over de hele wereld!
 
@@ -44,3 +44,5 @@ Er is echter wel iets om rekening mee te houden. Je geld zit op dit moment in in
 Je automatische investeringen stopzetten, afhankelijk van de lengte van de looptijden kan het dan enige tijd duren voor jij over al je geïnvesteerde geld kunt beschikken
 Je investeringen verkopen op de secondaire markt (als je hier korting op geeft ben je ze waarschijnlijk zo kwijt)
 
+[hierlnk1]: /investeren/eerste-stappen-met-mintos
+[hierlnk2]: /investeren/mintos-een-kwartaal-verder
