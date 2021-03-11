@@ -51,6 +51,7 @@ jekyll-archives:
   layout: archive
   permalinks:
     category: '/category/:name/'
+    post: '/category/:title/'
     
 # Other
 markdown: kramdown
