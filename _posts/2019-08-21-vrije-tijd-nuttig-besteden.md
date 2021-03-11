@@ -66,4 +66,4 @@ Laat in een reactie weten wat jij doet!
 [GfK-Panel]: https://gfkpanel.nl/signup
 [MPlink]: https://marktplaats.nl
 [Testbirdslnk]: https://nest.testbirds.com/home/tester?t=0b818c33-6d7a-419c-b662-bb38b36e88af
-[1jrlater]: ({% post_url testbirds-een-jaar-na-aanvang %})
+[1jrlater]: /terugkijken/testbirds-een-jaar-na-aanvang
