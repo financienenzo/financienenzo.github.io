@@ -2,7 +2,7 @@
 layout: post
 title:  "Vrije tijd nuttig besteden"
 author: Financien
-categories: [ vrije tijd ]
+categories: [ Overig ]
 tags: [ Vrije tijd, Affiliate ]
 image: assets/images/man-791049_1920.jpg
 permalink: /:categories/:title
@@ -39,7 +39,7 @@ Een waardebon van bol.com kost op dit moment 2000 punten.
 
 Ook jij hebt vast nog wel iets op zolder liggen waar je allang niet meer naar om hebt gekeken! Het kan handig zijn om deze spullen te verkopen via de diverse kanalen welke hiervoor zijn.
 
-Je kunt je spullen natuurlijk verkopen via een website als Marktplaats, maar je vind op Facebook ook steeds meer verkoopgroepen welke zich vaak concentreren op jou eigen buurt.
+Je kunt je spullen natuurlijk verkopen via een website als [Marktplaats][MPlink], maar je vind op Facebook ook steeds meer verkoopgroepen welke zich vaak concentreren op jou eigen buurt.
 
 ## Software / websites testen
 
@@ -47,11 +47,11 @@ Heb jij een beetje ervaring met het bezoeken van het internet en / of het gebrui
 
 Je kent die websites of apps vast wel waar het een en ander mis mee is. Gerenommeerde bedrijven zoeken daarom tegenwoordig testers en dat hoeven niet testers te zijn welke bij hen in dienst zijn.
 
-Denk jij dat kan ik ook? Meld je dan aan bij Testbirds. Na het invullen van een vragenlijst en je profiel kan je, bijna, direct aan de slag! Bijna omdat het je een oefentest moet doorlopen. Na het voltooien van deze test krijg je €5,- uitbetaald. Na de oefentest begint het wachten tot er een opdracht binnenkomt waar jou profiel voldoet aan de wensen van de opdrachtgever.
+Denk jij dat kan ik ook? Meld je dan aan bij [Testbirds][Testbirdslnk]. Na het invullen van een vragenlijst en je profiel kan je, bijna, direct aan de slag! Bijna omdat het je een oefentest moet doorlopen. Na het voltooien van deze test krijg je €5,- uitbetaald. Na de oefentest begint het wachten tot er een opdracht binnenkomt waar jou profiel voldoet aan de wensen van de opdrachtgever.
 
 Per test verdien je ongeveer €20,- soms iets meer. Vind jij een probleem in de software / website? Dan kan je een extra vergoeding verwachten!
 
-Lees ook het artikel Testbirds, 1 jaar later!
+Lees ook het artikel Testbirds, [1 jaar later][1jrlater]!
 
 > Over het algemeen kom je aardig uit de voeten bij Testbird met de Nederlandse taal, de website is echter wel in het Engels. Wil je hier meer over weten? Laat dan even een reactie achter!
 
@@ -64,3 +64,6 @@ Laat in een reactie weten wat jij doet!
 
 [EuroClixk]: https://www.euroclix.nl/index?SRef=qRwJwfDEvA6Pvi6A
 [GfK-Panel]: https://gfkpanel.nl/signup
+[MPlink]: https://marktplaats.nl
+[Testbirdslnk]: https://nest.testbirds.com/home/tester?t=0b818c33-6d7a-419c-b662-bb38b36e88af
+[1jrlater]: ({% post_url testbirds-een-jaar-na-aanvang %})
