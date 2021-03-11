@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Belggen met Peaks"
+title:  "Beleggen met Peaks"
 author: Financien
 categories: [ investeren ]
 tags: [ Beleggen, Investeren, Affiliate ]
-image: assets/images/peaks-portfolio.png
+image: assets/images/beleggen.jpg
 permalink: /:categories/:title
 date: 2019-09-14
 ---
