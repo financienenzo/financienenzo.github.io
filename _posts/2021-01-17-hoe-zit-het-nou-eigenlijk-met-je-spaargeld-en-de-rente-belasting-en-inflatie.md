@@ -2,6 +2,7 @@
 layout: post
 title:  "Hoe zit het nou eigenlijk met je spaargeld (en de rente, belasting en inflatie)?"
 author: Sandra
+categories: [ spaargeld ]
 tags: [ Spaargeld, Rente, Belasting, Inflatie, Affiliate ]
 image: assets/images/spaargeld-op-de-bank-alternatieven-1024x640.jpg
 featured: true
