@@ -5,6 +5,7 @@ author: Financien
 categories: [ Terugkijken ]
 tags: [ Testbirds, Affiliate ]
 image: assets/images/template-1599663_1280-1080x675.png
+permalink: /:categories/:title
 date: 2021-01-06
 ---
 
