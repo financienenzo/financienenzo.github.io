@@ -13,6 +13,8 @@ Ga voordat je boodschappen gaat doen eens door je keuken- en voorraadkasten heen
 
 Naast dat je een boodschappenlijstje maakt, kijk je natuurlijk ook door de reclame folders. Schrijf de boodschappen op welke in de aanbieding zijn en koop op basis van de houdbaarheid de benodigde hoeveelheid. WC papier bederft niet, dus kan je groots inslaan. Zuivel, groente en vlees kan je – over het algemeen – niet lang bewaren. Dit kan je dus niet groots inslaan.
 
+Wat ook handig is, is om voordat je boodschappen gaat doen eerst even wat te eten. Zo is je maag gevuld en kom je verrassend genoeg minder snel thuis met zaken die je toch niet op je lijstje had staan.
+
 ## Boodschappen
 Meld je aan bij voordeelsites zoals bijvoorbeeld [Scoupy][Scoupylnk]. Op Scoupy vind je aanbiedingen van leveranciers welke korting geven op bestaande en nieuwe producten. Je kunt eveneens punten sparen bij Scoupy, deze punten kan je inzetten om bepaalde producten bij Scoupy met korting te kopen.
 
