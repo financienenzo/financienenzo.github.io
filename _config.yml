@@ -54,6 +54,7 @@ jekyll-archives:
     post: '/category/:title/'
     
 # Other
+parmalinks: '/category/:title/'
 markdown: kramdown
 highlighter: rouge
 search: true
