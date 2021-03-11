@@ -45,6 +45,5 @@ permalinks:
   post: '/:categories/:title'
 markdown: kramdown
 highlighter: rouge
-search: true
 timezone: Europe/Amsterdam
 lang: nl-nl
