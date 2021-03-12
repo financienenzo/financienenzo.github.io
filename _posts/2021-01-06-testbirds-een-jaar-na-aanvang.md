@@ -16,17 +16,17 @@ Sinds mijn aanmelding heb ik 12 verschillende uitnodigingen mogen ontvangen, waa
 ## De stand na één jaar
 <div class="container">
     <div class="counter col_third">
-      <i class="fas fa-sort-numeric-up-alt fa-2x"></i>
+      <i class="fa fa-sort-numeric-up-alt fa-2x"></i>
       <h2 class="timer count-title count-number" data-to="9" data-speed="2000"></h2>
       <p class="count-text ">Aantal onderzoeken</p>
     </div>
     <div class="counter col_third">
-      <i class="far fa-calendar-times fa-2x"></i>
+      <i class="fa fa-calendar-times fa-2x"></i>
       <h2 class="timer count-title count-number" data-to="16" data-speed="2000"></h2>
       <p class="count-text ">Aantal besteedde uren</p>
     </div>
     <div class="counter col_third end">
-      <i class="fas fa-euro-sign fa-2x"></i>
+      <i class="fa fa-euro-sign fa-2x"></i>
       <h2 class="timer count-title count-number" data-to="183" data-speed="2000"></h2>
       <p class="count-text ">Inkomsten</p>
     </div>
