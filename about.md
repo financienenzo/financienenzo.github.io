@@ -18,6 +18,7 @@ Neem de sprong in het diepe, echter alleen met geld wat je voor langere tijd kun
 
 “Een pessimist ziet in elke kans de moeilijkheden. Een optimist ziet in elke moeilijkheid de kansen.” – Winston Churchill
 
+<div class="container">
         <div class="grid show-grid">
             <div class="row">
                 <div class="span1">span1</div>
@@ -46,3 +47,4 @@ Neem de sprong in het diepe, echter alleen met geld wat je voor langere tijd kun
                 <div class="span12">span12</div>
             </div>
         </div>
+</div>
