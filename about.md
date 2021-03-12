@@ -35,9 +35,21 @@ Neem de sprong in het diepe, echter alleen met geld wat je voor langere tijd kun
                 <div class="span1">span1</div>
             </div>
             <div class="row">
-                <div class="span2">span2</div>
-                <div class="span3">span3</div>
-                <div class="span7">span7</div>
+                <div class="span2">
+                        <i class="fas fa-sort-numeric-up-alt fa-2x"></i>
+                        <h2 class="timer count-title count-number" data-to="9" data-speed="2000"></h2>
+                        <p class="count-text ">Aantal onderzoeken</p>
+                </div>
+                <div class="span3">
+                        <i class="far fa-calendar-times fa-2x"></i>
+                        <h2 class="timer count-title count-number" data-to="16data-speed="2000"></h2>
+                        <p class="count-text ">Aantal besteedde uren</p>
+                </div>
+                <div class="span7">
+                        <i class="fas fa-euro-sign fa-2x"></i>
+                        <h2 class="timer count-title count-number" data-to="183data-speed="2000"></h2>
+                        <p class="count-text ">Inkomsten</p>
+                </div>
             </div>
             <div class="row">
                 <div class="span3">span3</div>
