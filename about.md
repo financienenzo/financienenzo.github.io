@@ -20,6 +20,6 @@ Financiën enzo is een persoonlijk blog welke tips en trucks geeft om te investe
       <p>Beginnen aan iets nieuws is lastig en vergt soms wat moed. Echter door niet te ondernemen wordt je geld alleen maar minder waard.
 Neem de sprong in het diepe, echter alleen met geld wat je voor langere tijd kunt missen!</p>
     </div>
-</div>
+</div></div>
 
 > “Een pessimist ziet in elke kans de moeilijkheden. Een optimist ziet in elke moeilijkheid de kansen.” – Winston Churchill
