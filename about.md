@@ -14,7 +14,7 @@ Financiën enzo is een persoonlijk blog welke tips en trucks geeft om te investe
     <div class="counter col_third">
       <h2 class="title">Financiële planning</h2>
       <p>Wat ons erg heeft geholpen is een persoonlijk kasboek bijhouden. Zo kregen wij inzicht in wat er binnen kwam en wat er uit ging.</p>
-    </div>>
+    </div>
     <div class="counter col_third end">
       <h2 class="title">Investeer in je fincanciële toekomst</h2>
       <p>Beginnen aan iets nieuws is lastig en vergt soms wat moed. Echter door niet te ondernemen wordt je geld alleen maar minder waard.
