@@ -43,6 +43,8 @@
 
 /* Grid testing */
 .show-grid .row [class*="span"]{min-height:10px!important;line-height:40px;text-align:center;background:rgba(193,179,123,0.52)}
+.grid:not(.fluid){width:100%}
+.grid:not(.fluid) .row .span1{width:6.382978%!important}
 .grid:not(.fluid) .row .span2{width:14.893614999999999%!important}
 .grid:not(.fluid) .row .span3{width:23.404251999999996%!important}
 .grid:not(.fluid) .row .span4{width:31.914889%!important}
