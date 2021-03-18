@@ -32,6 +32,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-archives
   - jekyll-redirect-from
+  - jekyll-target-blank
 
 # Archives
 jekyll-archives:
