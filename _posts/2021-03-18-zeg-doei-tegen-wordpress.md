@@ -4,7 +4,7 @@ title:  "Financiën enzo neemt afscheid van Wordpress"
 author: Financien
 categories: [ website ]
 tags: [ Website ]
-image: assets/images/cryptocurrency-3409641_1920-980x685.jpg
+image: assets/images/jekyll-logo.png
 date: 2021-03-18
 permalink: /:categories/:title
 featured: false
