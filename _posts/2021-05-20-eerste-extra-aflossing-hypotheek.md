@@ -2,8 +2,8 @@
 layout: post
 title:  "Eerste extra aflossing hypotheek"
 author: Financien
-categories: [ website ]
-tags: [ Website ]
+categories: [ aflossen ]
+tags: [ Aflossen, Hypotheek, Schulden ]
 image: assets/images/schulden.jpg
 date: 2021-03-18
 permalink: /:categories/:title
