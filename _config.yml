@@ -9,7 +9,7 @@ paginate: 8
 baseurl: '/'
 email: 'financienenzo@gmail.com'
 google_analytics: 'UA-6202229-31'
-disqus: ''
+disqus: 'financienenzo'
 sharethis: '<script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=604771394d1bac0012adedb1&product=sticky-share-buttons" async="async""></script>'
 # Authors
 authors:
