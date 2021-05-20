@@ -22,4 +22,8 @@ Neem de sprong in het diepe, echter alleen met geld wat je voor langere tijd kun
     </div>
 </div>
 
+Wij zijn dit blog begonnen omdat hij vanuit zijn ouders niets heeft meegekregen omtrent 'financiële opvoeding'. Niet dat het geld tegen de kade opkwam, maar er werd niet stil gestaan bij de uitgave van het geld. Dat merken wij nu nog steeds bij zijn ouders. Haar ouders zijn daarintegen veel meer van het alleen uitgeven als het écht nodig is. 
+
+Wij komen uit een situatie waar voornamelijk kant van zijn ouders meespeelden. Na het aflossen van schulden zijn we nu op weg naar een betere en stabielere financiële toekomst!
+
 > “Een pessimist ziet in elke kans de moeilijkheden. Een optimist ziet in elke moeilijkheid de kansen.” – Winston Churchill
