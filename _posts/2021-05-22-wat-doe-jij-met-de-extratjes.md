@@ -33,6 +33,8 @@ Of zijn jou plannen in verband met de Corona maatregelen aangepast en houdt je g
 + Investeren met [Mintos][Mintoslnk]
 + Beleggen met [Peaks][Peakslnk]
 + Investeren in [Crypto's][cryptolnk]
++ Investeren in [Vastgoed][vastgoedlnk]
++ Leer hoe je zelf kunt [Beleggen][beleggenlnk]
 
 Heb jij al een bestemming voor de 'extraatjes' van deze maand(en)? Wij zijn erg benieuwd! Laat het ons weten in de comments.
 
@@ -40,3 +42,5 @@ Heb jij al een bestemming voor de 'extraatjes' van deze maand(en)? Wij zijn erg 
 [Mintoslnk]:https://financienenzo.nl/investeren/eerste-stappen-met-mintos
 [Peakslnk]:https://financienenzo.nl/investeren/beleggen-met-peaks
 [cryptolnk]:https://financienenzo.nl/cryptovaluta/kan-je-geld-verdienen-met-cryptomunten
+[vastgoedlnk]:https://www.paypro.nl/producten/De_Vastgoed_Academy_-_Webinar_Special/77593/86238
+[beleggenlnk]:https://www.paypro.nl/producten/Boek_+_pakket_In_10_stappen_succesvol_beleggen/67457/86238
