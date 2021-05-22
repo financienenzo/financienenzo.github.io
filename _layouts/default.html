@@ -26,9 +26,11 @@
   ga('send', 'pageview');
 </script>
 {% endif %}  
-    
 
-    
+{% if page.mermaid %}
+    {% include mermaid.html %}
+{% endif %}
+   
 </head>
     
 
@@ -185,9 +187,7 @@
     <!-- End Footer
     ================================================== -->
 
-    {% if page.mermaid %}
-      {% include mermaid.html %}
-    {% endif %}
+
     
 </div> <!-- /.site-content>
 
