@@ -41,7 +41,7 @@ Wij weten inmiddels hoeveel er binnenkomt over deze 3 posten en hebben de volgen
 
 <div class="mermaid">
 pie 
-title Verdeling extratjes in percentage;
+title Verdeling extraatjes in percentage;
     "Aflossing hypotheek" : 30
     "Vakantie" : 50
     "Beleggen Peaks" : 5
