@@ -34,4 +34,4 @@ Ik kan hier natuurlijk een heel verhaal gaan ophangen over hoe je dit het beste 
 
 Het gaat dan ook écht om een beginnerscursus. Je wordt onder andere meegenomen in 15 verschillende crypto munten met de meeste potentie. Uiteraard moet je er wel wat tijd voor vrij maken en moet je wel wat geld durven te investeren, maar dat is met alle investeringen zo! 
 
-[bitcointraining]:(https://www.paypro.nl/producten/Crypto_Masterclass/68867/86238)
+[bitcointraining]:https://www.paypro.nl/producten/Crypto_Masterclass/68867/86238
