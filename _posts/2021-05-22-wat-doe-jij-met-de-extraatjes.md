@@ -37,7 +37,9 @@ Of zijn jou plannen in verband met de Corona maatregelen aangepast en houdt je g
 + Investeren in [Vastgoed][vastgoedlnk]
 + Leer hoe je zelf kunt [Beleggen][beleggenlnk]
 
-Wij weten inmiddels hoeveel er binnenkomt over deze 3 posten en hebben de volgende verdeling gemaakt:
+Wij weten inmiddels hoeveel er binnenkomt over deze 3 posten en hebben de verdeling zoals je in onderstaande pie chart kunt zien gemaakt.
+Het is een schatting, we weten nog niet exact hoeveel we uitgeven aan vakantie en willen tijdens een vakantie niet perse heel erg op de centen moeten letten.
+Mogelijk pakt dit uiteindelijk dus iets anders uit, maar die ruimte is er (gelukkig) ook.
 
 <div class="mermaid">
 pie 
