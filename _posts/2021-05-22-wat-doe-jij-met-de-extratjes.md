@@ -8,6 +8,7 @@ tags: [ Vakantie, Aflossen, Sparen, Investeren ]
 image: assets/images/vakantiegeld.jpg
 date: 2021-05-22
 permalink: /:categories/:title
+mermaid: true
 featured: false
 ---
 
