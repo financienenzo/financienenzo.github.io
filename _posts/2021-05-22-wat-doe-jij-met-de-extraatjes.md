@@ -41,12 +41,12 @@ Wij weten inmiddels hoeveel er binnenkomt over deze 3 posten en hebben de volgen
 
 <div class="mermaid">
 pie 
-title Verdeling extraatjes in percentage;
-    "Aflossing hypotheek" : 30
+title Verdeling extraatjes
+    "Hypotheek" : 30
     "Vakantie" : 50
-    "Beleggen Peaks" : 5
-    "Investeren in Crypto" : 5
-    "Apart gezet voor starten met zelf beleggen" : 10
+    "Peaks" : 5
+    "Crypto" : 5
+    "Beleggen" : 10
 </div>
 
 Heb jij al een bestemming voor de 'extraatjes' van deze maand(en)? Wij zijn erg benieuwd! Laat het ons weten in de comments.
