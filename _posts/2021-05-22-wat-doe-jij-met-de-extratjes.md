@@ -40,8 +40,7 @@ Of zijn jou plannen in verband met de Corona maatregelen aangepast en houdt je g
 Wij weten inmiddels hoeveel er binnenkomt over deze 3 posten en hebben de volgende verdeling gemaakt:
 
 <div class="mermaid">
-graph TD;
-pie title Pets adopted by volunteers
+graph pie title Pets adopted by volunteers;
     "Dogs" : 386
     "Cats" : 85
     "Rats" : 15
