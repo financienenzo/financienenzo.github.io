@@ -30,6 +30,8 @@ Ik heb, door vallen en opstaan (verliezen en winst), mij wat kennis weten bij te
 Zo zijn er helaas wel meer valkuilen. Een collega meldde mij onlangs dat hij ooit met 2 bitcoins een pizza had gekocht. Had mijn collega zijn bitcoins bewaard, dan waren die op dit moment meer dan €60.000,- waard geweest! Heb jij een lange adem? Kan jij je rust bewaren op de beurs bij het handelen? Dan kan jij wellicht geld verdienen met crypto munten!
 
 ## Hoe kan je verdienen aan crypto valuta?
-Ik kan hier natuurlijk een heel verhaal gaan ophangen over hoe je dit het beste kunt doen, maar ik heb de afgelopen tijd erg veel gehad aan onderstaande gratis online Bitcoin Training. Derek en Patrick zijn al jaren bezig met het begeleiden van anderen in het handelen in verschillende valuta en bieden jou een schat aan informatie in de onderstaande gratis training. 
+Ik kan hier natuurlijk een heel verhaal gaan ophangen over hoe je dit het beste kunt doen, maar ik heb de afgelopen tijd erg veel gehad aan onderstaande [gratis online Bitcoin Training][bitcointraining]. Derek en Patrick zijn al jaren bezig met het begeleiden van anderen in het handelen in verschillende valuta en bieden jou een schat aan informatie in de onderstaande gratis training. 
 
 Het gaat dan ook écht om een beginnerscursus. Je wordt onder andere meegenomen in 15 verschillende crypto munten met de meeste potentie. Uiteraard moet je er wel wat tijd voor vrij maken en moet je wel wat geld durven te investeren, maar dat is met alle investeringen zo! 
+
+[bitcointraining]:(https://www.paypro.nl/producten/Crypto_Masterclass/68867/86238)
