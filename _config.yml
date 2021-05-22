@@ -33,6 +33,7 @@ plugins:
   - jekyll-archives
   - jekyll-redirect-from
   - jekyll-target-blank
+  - jekyll-mermaid
 
 # Archives
 jekyll-archives:
