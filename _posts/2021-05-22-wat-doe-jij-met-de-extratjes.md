@@ -40,10 +40,13 @@ Of zijn jou plannen in verband met de Corona maatregelen aangepast en houdt je g
 Wij weten inmiddels hoeveel er binnenkomt over deze 3 posten en hebben de volgende verdeling gemaakt:
 
 <div class="mermaid">
-pie title Pets adopted by volunteers;
-    "Dogs" : 386
-    "Cats" : 85
-    "Rats" : 15
+pie 
+title Verdeling extratjes in percentage;
+    "Aflossing hypotheek" : 30
+    "Vakantie" : 50
+    "Beleggen Peaks" : 5
+    "Investeren in Crypto" : 5
+    "Apart gezet voor starten met zelf beleggen" : 10
 </div>
 
 Heb jij al een bestemming voor de 'extraatjes' van deze maand(en)? Wij zijn erg benieuwd! Laat het ons weten in de comments.
