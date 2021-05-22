@@ -38,10 +38,12 @@ Of zijn jou plannen in verband met de Corona maatregelen aangepast en houdt je g
 
 Wij weten inmiddels hoeveel er binnenkomt over deze 3 posten en hebben de volgende verdeling gemaakt:
 
+```mermaid
 pie title Pets adopted by volunteers
     "Dogs" : 386
     "Cats" : 85
     "Rats" : 15
+```
 
 Heb jij al een bestemming voor de 'extraatjes' van deze maand(en)? Wij zijn erg benieuwd! Laat het ons weten in de comments.
 
