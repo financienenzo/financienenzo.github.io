@@ -7,7 +7,7 @@ tags: [ Aflossen, Hypotheek, Schulden ]
 image: assets/images/schulden.jpg
 date: 2021-03-18
 permalink: /:categories/:title
-featured: false
+featured: true
 ---
 
 Zoals jullie [hier][hierlnk] kunnen lezen heeft hij niet heel veel opvoeding meegekregen over hoe om te gaan met financiën. We deden het opzich redelijk goed, maar toch zijn we geconfronteerd met schulden.
