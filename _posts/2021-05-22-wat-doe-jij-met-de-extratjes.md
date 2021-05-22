@@ -36,7 +36,7 @@ Of zijn jou plannen in verband met de Corona maatregelen aangepast en houdt je g
 
 Heb jij al een bestemming voor de 'extraatjes' van deze maand(en)? Wij zijn erg benieuwd! Laat het ons weten in de comments.
 
-[vakantiegeldlnk]:(https://www.berekenhet.nl/werk-en-inkomen/vakantiegeld.html)
-[Mintoslnk]:(https://financienenzo.nl/investeren/eerste-stappen-met-mintos)
-[Peakslnk]:(https://financienenzo.nl/investeren/beleggen-met-peaks)
-[cryptolnk]:(https://financienenzo.nl/cryptovaluta/kan-je-geld-verdienen-met-cryptomunten)
+[vakantiegeldlnk]:https://www.berekenhet.nl/werk-en-inkomen/vakantiegeld.html
+[Mintoslnk]:https://financienenzo.nl/investeren/eerste-stappen-met-mintos
+[Peakslnk]:https://financienenzo.nl/investeren/beleggen-met-peaks
+[cryptolnk]:https://financienenzo.nl/cryptovaluta/kan-je-geld-verdienen-met-cryptomunten
