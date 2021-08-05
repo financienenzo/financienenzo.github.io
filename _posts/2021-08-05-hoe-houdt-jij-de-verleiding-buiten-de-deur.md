@@ -18,16 +18,16 @@ Een advertentie in de krant, op social media, in je geliefde spelletje op je tel
 Reclame / marketing is booming! Marketing wordt ingezet om ons te verleiden om gebruik te maken van deze producten of diensten. 
 De ene marketing uiting zal je meer aanspreken dan de andere. Afhankelijk van hoeveel het jou aanspreekt zal je sterker moeten zijn om de reclame uiting links te laten liggen.
 Uiteraard staan ook wij regelmatig voor de uitdaging, wel of niete in gaan op een reclame item. In enkele gevallen kan dit lonen.
-Zo heeft de "[kvw][Keuringdienst van Waarde]" van NPO in april van dit jaar een aflevering uitgezonden over 1+1 gratis, 50% korting, 2e voor €1,- euro etc. Aflevering niet gezien? Bekijk deze dan [2egratis][hier] terug! 
+Zo heeft de "[Keuringdienst van Waarde][kvw]" van NPO in april van dit jaar een aflevering uitgezonden over 1+1 gratis, 50% korting, 2e voor €1,- euro etc. Aflevering niet gezien? Bekijk deze dan [hier][2egratis] terug! 
 Na het bekijken van deze aflevering heb je toch wel door dat we gigantisch in de maling worden genomen door diverse winkels!
 
 ## Online reclame
 Ook online kom je de hele dag reclame tegen. Van sociale media tot nieuws websites. Van je games tot in webwinkels.
 Om die reclames online te minimaliseren kan je een aantal stappen ondernemen:
 
-+ Installeer een plugin in je browser, zoals [adblock][AdBlock]. Dit is een gratis plugin voor zo'n beetje iedere browser. Ook geschikt voor je mobiele telefoon.
-+ Heb je een beetje technische kennis en heb je wel zin in een uitdaging? Kijk dan eens naar [pihole][Pi-Hole] of [adguard][AdGuard Home] 
-+ Wil je zelf invloed kunnen uitoefenen op welk verkeer geblokkeerd wordt en wil je dit centraal inregelen? Maak dan gebruik van de provider [nextdns][NextDNS].
++ Installeer een plugin in je browser, zoals [AdBlock][AdBlock]. Dit is een gratis plugin voor zo'n beetje iedere browser. Ook geschikt voor je mobiele telefoon.
++ Heb je een beetje technische kennis en heb je wel zin in een uitdaging? Kijk dan eens naar [Pi-Hole][pihole] of [AdGuard Home][adguard] 
++ Wil je zelf invloed kunnen uitoefenen op welk verkeer geblokkeerd wordt en wil je dit centraal inregelen? Maak dan gebruik van de provider [NextDNS][NextDNS].
 
 ### AdBlock Plus
 AdBlock Plus installeer je eenvoudig in je browsers en op je mobiele telefoon en dan ben je al verzekerd van een stuk minder advertenties en trackers!
@@ -40,11 +40,11 @@ Beide oplossingen bieden jou de mogelijkheid om de blokkade van advertenties vol
 Heb je ondersteuning nodig op een van deze producten? Dan ben je aangewezen op de community.
 
 ### NextDNS
-In tegenstelling tot Pi-Hole of AdGuard Home hoef je voor [nextdns][NextDNS] weinig technische kennis te hebben.
+In tegenstelling tot Pi-Hole of AdGuard Home hoef je voor [NextDNS][NextDNS] weinig technische kennis te hebben.
 Oké, je moet wel op je modem of router de DNS servers van NextDNS instellen, maar daarna zijn (bijna) alle online reclames weg!
 Naast het tegenhouden van de reclames online, beschermt NextDNS je ook tegen trackers, bedreigingen op het web én het kan ook nog eens je kinderen beschermen met bijvoorbeeld YouTube beschermde modus en specifieke sociale media platformen blokkeren.
 NextDNS is te gebruiken op al je apparaten en je kunt het ook buiten huis gebruiken, door op je mobiele telefoon de DNS servers aan te passen.
-De documentatie van [nextdns][NextDNS] begeleid je goed door welke stappen je moet doorlopen en je kunt gratis beginnen!
+De documentatie van [NextDNS][NextDNS] begeleid je goed door welke stappen je moet doorlopen en je kunt gratis beginnen!
 
 Wat doe jij om (online) verleidingen te voorkomen? Of kijk jij juist uit naar bepaalde verleidingen?
 Als je de video van de Keuringsdienst van Waarde hebt bekeken, wil je waarschijnlijk zoveel mogelijk gebruik maken van de aanbiedingen in drogisterijen.
