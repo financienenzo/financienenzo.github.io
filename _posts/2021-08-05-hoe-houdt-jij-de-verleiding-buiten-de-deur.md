@@ -40,11 +40,11 @@ Beide oplossingen bieden jou de mogelijkheid om de blokkade van advertenties vol
 Heb je ondersteuning nodig op een van deze producten? Dan ben je aangewezen op de community.
 
 ### NextDNS
-In tegenstelling tot Pi-Hole of AdGuard Home hoef je voor NextDNS weinig technische kennis te hebben.
+In tegenstelling tot Pi-Hole of AdGuard Home hoef je voor [nextdns][NextDNS] weinig technische kennis te hebben.
 Oké, je moet wel op je modem of router de DNS servers van NextDNS instellen, maar daarna zijn (bijna) alle online reclames weg!
 Naast het tegenhouden van de reclames online, beschermt NextDNS je ook tegen trackers, bedreigingen op het web én het kan ook nog eens je kinderen beschermen met bijvoorbeeld YouTube beschermde modus en specifieke sociale media platformen blokkeren.
 NextDNS is te gebruiken op al je apparaten en je kunt het ook buiten huis gebruiken, door op je mobiele telefoon de DNS servers aan te passen.
-De documentatie van NextDNS begeleid je goed door welke stappen je moet doorlopen en je kunt gratis beginnen!
+De documentatie van [nextdns][NextDNS] begeleid je goed door welke stappen je moet doorlopen en je kunt gratis beginnen!
 
 Wat doe jij om (online) verleidingen te voorkomen? Of kijk jij juist uit naar bepaalde verleidingen?
 Als je de video van de Keuringsdienst van Waarde hebt bekeken, wil je waarschijnlijk zoveel mogelijk gebruik maken van de aanbiedingen in drogisterijen.
