@@ -46,6 +46,18 @@ De rente wordt dagelijks uitgekeerd en je geld is, mits niet voor langere tijd v
 
 Als je aan de slag wilt gaan met [Nexo][Nexolnk] dan begin je met een account aanmaken. Doe je dat via onze link, dan ontvang je $10,- in Bitcoin (BTC). Na aanmelding, dien je een verificatie te doorlopen. Na het doorlopen van de verificatie kan je geld overmaken, welke na een dag of 2 op je Nexo account te vinden is. Op dit moment dien je minimaal €1000,- in te leggen. Maximaal kan je €2000,- inleggen per keer.
 
+### Mogelijke risico's
+
+Investeren betekend natuurlijk ook weten wat de mogelijke risico's van het platform zijn.
+Wij denken dat het grootste risico is dat crpto valuta nog geen gemeengoed zijn. De prijzen fluctureren dagelijks, Bitcoin heeft onlangs nog een nieuwe zogenaamde 'All Time High' (ATH) doorgemaakt. Je ziet zowel positieve als negatieve berichtgevingen in het nieuws.
+Stort de hele crypto wereld in elkaar, dan zal Nexo mogelijk problemen hebben om iedereen zijn crypto & geld terug te geven.
+
+Een ander mogelijk risico is dat Nexo de rentes niet kan betalen. Echter de rente welke ze uitkeren is lager dan de rente die de mensen die een lening aangaan moeten betalen. Dat zal dus wel goed zitten. Het kan natuurlijk gebeuren dat als de crypto markt in elkaar stort dat hierdoor ook de rentes niet mee betaald kunnen worden.
+
+Net als bij alle andere investeringen is het zo dat je alleen moet investeren wat je kunt missen, of het nu gaat om beleggingen, crypto valuta of andere investeringen. Zorg er altijd voor dat je de aangeraden hoeveelheid spaargeld achter de hand houdt, zodat je niet afhankelijk bent van dergelijke platformen.
+
+Loop geen onnodig risico, inveer alleen wat je kunt missen!
+
 [Mintoslnk]:https://financienenzo.nl/investeren/eerste-stappen-met-mintos
 [Nexolnk]:https://nexo.io/ref/ccpuoytzoq?src=web-link
 [Credlnk]:https://credissimo.com/
