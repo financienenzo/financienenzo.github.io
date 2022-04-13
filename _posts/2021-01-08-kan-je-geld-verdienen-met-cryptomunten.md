@@ -4,7 +4,7 @@ title:  "Kan je geld verdienen met cryptomunten?"
 author: Financien
 categories: [ cryptovaluta ]
 tags: [ Cryptovaluta, Affiliate ]
-image: assets/images/cryptocurrency-3409641_1920-980x685.jpg
+image: assets/images/cryptocurrency-2.jpg
 permalink: /:categories/:title
 date: 2021-01-08
 ---
@@ -35,3 +35,7 @@ Ik kan hier natuurlijk een heel verhaal gaan ophangen over hoe je dit het beste 
 Het gaat dan ook écht om een beginnerscursus. Je wordt onder andere meegenomen in 15 verschillende crypto munten met de meeste potentie. Uiteraard moet je er wel wat tijd voor vrij maken en moet je wel wat geld durven te investeren, maar dat is met alle investeringen zo! 
 
 [bitcointraining]:https://www.paypro.nl/producten/Crypto_Masterclass/68867/86238
+
+<hr>
+
+Foto van <a href="https://pixabay.com/nl/photos/cryptogeld-concept-altcoins-3423264/" target="_blank" rel="noreferrer noopener">Pixabay</a>.
