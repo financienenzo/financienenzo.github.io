@@ -25,3 +25,7 @@ Je gespaarde Ippies kan je vervolgens weer inwisselen bij webshops waar je met I
 
 [Scoupylnk]: https://scoupy.com/nl
 [Ippieslnk]: https://www.ippies.nl/aanmelden?u=MzgyOTkw
+
+<hr>
+
+Foto van <a href="https://pixabay.com/photos/aisle-background-buy-clean-food-3105629/" target="_blank" rel="noreferrer noopener">Pixabay</a>.
