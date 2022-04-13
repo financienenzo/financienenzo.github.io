@@ -59,3 +59,7 @@ Heb jij al een bestemming voor de 'extraatjes' van deze maand(en)? Wij zijn erg 
 [cryptolnk]:https://financienenzo.nl/cryptovaluta/kan-je-geld-verdienen-met-cryptomunten
 [vastgoedlnk]:https://www.paypro.nl/producten/De_Vastgoed_Academy_-_Webinar_Special/77593/86238
 [beleggenlnk]:https://www.paypro.nl/producten/Boek_+_pakket_In_10_stappen_succesvol_beleggen/67457/86238
+
+<hr>
+
+Foto van <a href="https://pixabay.com/nl/photos/fantasie-reizen-vakantie-koffer-3502188/" target="_blank" rel="noreferrer noopener">Pixabay</a>.
