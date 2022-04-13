@@ -29,3 +29,7 @@ Los jij extra af op je schulden of hypotheek? Wij zijn erg benieuwd!
 
 [hierlnk]:/about
 [MoneyGameLnk]:https://www.paypro.nl/producten/Ik_ben_Jan_Modaal/79165/86238
+
+<hr>
+
+Foto van <a href="https://pixabay.com/nl/photos/fout-morsen-uitglijden-ongeluk-876597/" target="_blank" rel="noreferrer noopener">Pixabay</a>.
