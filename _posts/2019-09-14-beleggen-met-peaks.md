@@ -47,3 +47,7 @@ Ga jij na het lezen van dit artikel enthousiast aan de slag of heb je al ervarin
 [Mintoslnk]: /investeren/eerste-stappen-met-mintos
 [Androidlnk]: https://play.google.com/store/apps/details?id=com.peaks&hl=nl
 [Applelnk]: https://apps.apple.com/nl/app/peaks-beleggen/id1290848175
+
+<hr>
+
+Foto van <a href="https://pixabay.com/photos/stock-trading-monitor-business-1863880/" target="_blank" rel="noreferrer noopener">Pixabay</a>.
