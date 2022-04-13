@@ -67,3 +67,7 @@ Laat in een reactie weten wat jij doet!
 [MPlink]: https://marktplaats.nl
 [Testbirdslnk]: https://nest.testbirds.com/home/tester?t=0b818c33-6d7a-419c-b662-bb38b36e88af
 [1jrlater]: /terugkijken/testbirds-een-jaar-na-aanvang
+
+<hr>
+
+Foto van <a href="https://pixabay.com/photos/man-reading-touchscreen-blog-791049/" target="_blank" rel="noreferrer noopener">Pixabay</a>.
