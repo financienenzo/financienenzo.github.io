@@ -4,7 +4,7 @@ title:  "Cryptocurrency? Financiën enzo legt het uit!"
 author: Financien
 categories: [ cryptovaluta ]
 tags: [ Cryptovaluta ]
-image: assets/images/cryptocurrency-3409641_1920-980x685.jpg
+image: assets/images/cryptocurrency.jpg
 date: 2021-02-14
 permalink: /:categories/:title
 featured: false
@@ -30,3 +30,7 @@ Wanneer een transactie wordt bevestigd, wordt deze als het ware in steen gebeite
 
 ## Wat is een miner?
 In principe kan iedereen een miner zijn. Omdat een gedecentraliseerd netwerk niet de bevoegdheid heeft om deze taak te zelf uit te voeren daarom heeft een cryptocurrency een soort mechanisme nodig om te voorkomen dat een regerende partij er misbruik van maakt. Het is alleen belangrijk dat je weet dat het de basis kan zijn van een cryptologische puzzel die de miners moeten oplossen. Na het vinden van een oplossing kan een miner een blok bouwen en dit aan de blockchain toevoegen. Als incentive heeft hij het recht om een zogenaamde coinbase-transactie toe te voegen die hem een ​​bepaald aantal Bitcoins oplevert. Dit is de enige manier om geldige Bitcoins te maken. Bitcoins kunnen alleen worden gemaakt als miners een cryptografische puzzel oplossen. Omdat de moeilijkheidsgraad van deze puzzel de hoeveelheid computerkracht vergroot die de miner investeert, is er slechts een specifieke hoeveelheid cryptocurrency-token die in een bepaalde tijd kan worden gemaakt.
+
+<hr>
+
+Foto van <a href="https://pixabay.com/nl/photos/munt-cryptocurrency-rimpeling-xrp-3789234/" target="_blank" rel="noreferrer noopener">Pixabay</a>.
