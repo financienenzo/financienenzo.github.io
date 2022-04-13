@@ -56,3 +56,7 @@ Wij zijn erg benieuwd! Laat het ons weten in de comments.
 [nextdns]:https://nextdns.io/?from=sch5xhn7
 [pihole]:https://pi-hole.net/
 [adguard]:https://adguard.com/en/adguard-home
+
+<hr>
+
+Foto van <a href="https://pixabay.com/illustrations/bargain-price-best-to-buy-access-455991/" target="_blank" rel="noreferrer noopener">Pixabay</a>.
