@@ -36,3 +36,7 @@ Sinds mijn aanmelding heb ik 12 verschillende uitnodigingen mogen ontvangen, waa
 Zoals je kunt zien heb ik niet heel veel verschillende onderzoeken gehad en viel de tijd welke ik erin heb gestoken best mee voor de vergoeding welke er tegenover staat. De vergoeding hangt af van het aantal gevonden bugs in de tests.
 
 Voor één test heb ik een extra vergoeding ontvangen omdat er weinig aanmelders waren en ik voor die specifieke test nog een aantal mensen wist die aan de voorwaarden voldeden. Dit is iets wat niet vaak voorkomt. Normaal gesproken krijg je enkel community punten voor het aanbrengen van nieuwe leden wat ervoor zorgt dat je mogelijk eerder uitgenodigd wordt voor nieuwe tests.
+
+<hr>
+
+Foto van <a href="https://pixabay.com/nl/vectors/sjabloon-lay-out-website-blog-1599663/" target="_blank" rel="noreferrer noopener">Pixabay</a>.
