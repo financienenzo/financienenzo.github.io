@@ -24,8 +24,6 @@ Mocht de lening niet terug betaald worden en je hebt buyback, dan staat de ‘lo
 
 Naast de buyback garantie is het verstandig om naar de rating van de ‘loan originator’ te kijken. Zo leen ik mijn geld niet uit als de rating lager is dan B.
 
-![Een kluis met geld](/assets/images/safe-with-money.jpg)
-
 Daarnaast is het ook nog verstandig om je investeringen zo veel mogelijk te spreiden over kleine leningen. Het is natuurlijk zuur als je het uitgeleende geld niet terug ontvangt, echter zal je dit met kleine investeringen sneller goed kunnen maken dan met één grote investering.
 
 Als we dan nog even doemdenken dan zijn er nog 2 risico’s welke ik achterwegen heb gelaten. Het faillissement (of iets in die trant) van de ‘loan originator’ of Mintos. Indien dat het geval is, ben je naar alle waarschijnlijkheid je geld gewoon kwijt.
